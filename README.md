@@ -1,7 +1,7 @@
 # no-jquery
 
 
-## Here is some links to think about necessity including jquery in your project
+### Here is some links to think about necessity including jquery in your project
 
 [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com/)
 
