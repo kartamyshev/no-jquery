@@ -1,7 +1,7 @@
 # no-jquery
 
 
-### Here is some links to think about necessity including jquery in your project
+### Here are some links to think of necessity including jquery in your project
 
 [http://vanilla-js.com/](http://vanilla-js.com)
 
